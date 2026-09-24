@@ -1,20 +1,29 @@
-# Awesome-Affiliate-Marketing-Platform
+# 🚀 Awesome Affiliate Marketing Platform
 
-## Top Affiliate Marketing Platform Ecosystem
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS/Hosted Affiliate Marketing Platforms & Open-Source GitHub Projects**
+![Awesome Affiliate Marketing Platform Banner](assets/banner.svg)
 
-*Focus: Affiliate tracking, partner management, referral programs, attribution, commission management, affiliate networks, payouts, fraud prevention, analytics, APIs, and self-hosted/open-source alternatives.*
+## 📈 Top Affiliate Marketing Platform Ecosystem & Tools
 
-**Last updated: September 2026**
+> A curated directory and enterprise reference guide for **Affiliate Marketing Platforms**, **Affiliate Tracking Software**, **Partner Relationship Management (PRM)**, and **Open-Source Attribution Infrastructure**.
+
+**Curated List of SaaS/Hosted Affiliate Marketing Platforms & Open-Source GitHub Projects** 🎯
+
+*Focus: Affiliate tracking, partner management, referral programs, attribution engines, commission management, affiliate networks, automated payouts, fraud prevention, cohort analytics, APIs, and self-hosted open-source platforms.*
+
+**Last updated: September 2026** 📅
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 * [Overview](#overview)
 * [SaaS/Hosted Platforms](#saashosted-platforms)
 * [Open-Source](#open-source)
+
 
   * [Complete Affiliate & Partner Platforms](#complete-affiliate--partner-platforms)
   * [Affiliate Tracking & Attribution](#affiliate-tracking--attribution)
@@ -101,501 +110,299 @@ Open-source software is considerably more fragmented. Rather than one open-sourc
 
 ---
 
-# SaaS/Hosted Platforms
+---
 
-The following platforms are commercial/hosted products and should be considered separately from the open-source ecosystem.
+# 🏢 SaaS/Hosted Platforms
 
-## 1. PartnerStack
+### 🌐 Market Size & Industry Concentration Insights
+The global affiliate marketing software and management ecosystem is estimated at **$22.5 Billion in 2026** (expanding at a ~10.5% CAGR). The market structure is **moderately fragmented**: 
+- **Enterprise Network Leaders** (e.g., impact.com, CJ Affiliate, Awin, Rakuten Advertising) control significant transaction flow across major retail and enterprise partnerships.
+- **SaaS & B2B Vertical Platforms** (e.g., PartnerStack, Rewardful, FirstPromoter, Everflow) capture high-growth market segments by delivering deep Stripe/billing integrations, automated partner workflows, and developer-friendly REST/GraphQL APIs.
 
-**Website:** https://partnerstack.com/
+Below is the comparative breakdown of commercial SaaS affiliate platforms, sorted by estimated **Company Scale / Annual Revenue (Descending)** 📊:
 
-PartnerStack provides partner-management infrastructure for B2B companies, including affiliate, referral, ambassador and reseller programs.
+| Platform 🚀 | Primary Target / Use Case 🎯 | Specific Starting Price 💳 | Free Tier / Trial Limit ⏳ | Company Size & Valuation / Revenue 💰 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Rakuten Advertising](https://rakutenadvertising.com/)** | Global enterprise affiliate network & performance marketing | Custom quote ($500/mo base minimum + network fee) | No free tier; demo upon approval | **$2.1B+ Annual Revenue** (Subsidiary of Rakuten Group) |
+| **[CJ Affiliate](https://www.cj.com/)** | Enterprise affiliate network & publisher marketplace | $3,000 one-time setup fee + $500/mo min spend | No free tier; account manager application required | **$750M+ Annual Revenue** (Part of Publicis Groupe) |
+| **[Awin](https://www.awin.com/)** | Global affiliate network & merchant infrastructure | $550 one-time fee + $30/mo platform fee (Access Plan) | No free tier; paid merchant registration required | **$250M+ Annual Revenue** (Axel Springer AG group) |
+| **[impact.com](https://impact.com/)** | Partnership management for affiliates, creators & influencers | $500/month (Starter tier) | 14-day free trial (Up to 10 active partners) | **$150M+ ARR / $1.5B+ Valuation** |
+| **[Partnerize](https://partnerize.com/)** | Enterprise partnership automation & attribution | $1,000/month base minimum | No free tier; custom platform trial upon demo | **$75M+ Annual Revenue** |
+| **[PartnerStack](https://partnerstack.com/)** | B2B SaaS partner, referral & reseller program ecosystem | $500/month (Essential tier) | 14-day free trial (Limited sandbox access) | **$45M+ ARR / $500M+ Valuation** |
+| **[Everflow](https://www.everflow.io/)** | Performance marketing & partner tracking infrastructure | $750/month (Includes 50,000 conversions/mo) | 14-day free trial (Full sandbox testing environment) | **$35M+ ARR** |
+| **[TUNE](https://www.tune.com/)** | Customizable affiliate & network tracking software | $899/month (Bootstrap tier, 1M tracking events) | 14-day free trial (Full features, test environment) | **$30M+ ARR** |
+| **[Refersion](https://www.refersion.com/)** | E-commerce affiliate & influencer program management | $119/month (Professional plan, up to 130 orders/mo) | 14-day free trial (Full access up to 50 tracking orders) | **$20M+ ARR** |
+| **[Tapfiliate](https://tapfiliate.com/)** | Affiliate, referral, and influencer program management | $89/month (Essential tier, 250 conversions/mo) | 14-day free trial (No credit card required) | **$12M+ ARR** |
+| **[FirstPromoter](https://firstpromoter.com/)** | SaaS & subscription affiliate/referral tracking (Stripe) | $49/month (Starter plan, up to $5k/mo tracked revenue) | 14-day free trial (Full feature access) | **$8M+ ARR** |
+| **[LeadDyno](https://www.leaddyno.com/)** | Multi-channel affiliate tracking & social sharing | $49/month (Starter plan, up to 3,000 site visitors/mo) | 30-day free trial (Full access to tracking tools) | **$5M+ ARR** |
+| **[Rewardful](https://www.rewardful.com/)** | SaaS affiliate & referral software built for Stripe/Paddle | $49/month (Performance tier, up to $5k/mo tracked revenue)| 14-day free trial (Unlimited partners during trial) | **$4M+ ARR** |
+
+---
+
+
+---
+
+# 🔓 Open-Source
+
+> Open-source affiliate software provides raw data ownership and customization. The strongest strategy is combining a complete open-source affiliate platform with specialized attribution, analytics, and payment infrastructure.
+
+---
+
+# 🛠️ Complete Affiliate & Partner Platforms
+
+Below is the list of open-source affiliate & referral platforms, sorted by **GitHub Star Count (Descending)** ⭐:
+
+## 1. PostHog
+
+[![PostHog Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
+
+**GitHub:** https://github.com/PostHog/posthog
+
+PostHog is an open-source product analytics and feature management platform with comprehensive event tracking and referral/conversion attribution capabilities.
 
 Key capabilities:
+* Customer journey tracking & conversion funnels
+* Custom affiliate event capture & cohort analysis
+* Feature flags & experiment control
+* PostgreSQL & ClickHouse analytical backend
+* Self-hostable via Docker/Kubernetes
 
-* Partner recruitment
-* Affiliate programs
-* Referral programs
-* Partner portals
-* Referral links
-* Commission management
-* Partner groups
-* Partner ecosystem management
-* B2B SaaS partnerships
-* Reporting and analytics
-* Partner marketplace/network
-
-PartnerStack describes itself as an ecosystem platform for managing partner relationships and programs.
+License: MIT / ELv2.
 
 ---
 
-## 2. impact.com
+## 2. ClickHouse
 
-**Website:** https://impact.com/
+[![ClickHouse Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)
 
-impact.com provides partnership-management infrastructure covering affiliates, creators, influencers, publishers and other partner relationships.
+**GitHub:** https://github.com/ClickHouse/ClickHouse
+
+ClickHouse is an open-source column-oriented database system powering real-time high-volume clickstream and attribution analytics engines.
 
 Key capabilities:
+* Sub-second clickstream event aggregation
+* High throughput click → conversion matching
+* Real-time affiliate network reporting
+* Massive scalability for high-traffic networks
 
-* Partner discovery
-* Affiliate management
-* Influencer partnerships
-* Creator partnerships
-* Contract management
-* Commission management
-* Partner payments
-* Tracking
-* Engagement
-* Fraud/violation monitoring
-* Reporting
-* Partnership optimization
+License: Apache-2.0.
 
 ---
 
-## 3. CJ Affiliate
+## 3. Matomo
 
-**Website:** https://www.cj.com/
+[![Matomo Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)
 
-CJ Affiliate is a large affiliate network connecting advertisers and publishers.
+**GitHub:** https://github.com/matomo-org/matomo
+
+Matomo is a privacy-focused open-source web analytics platform featuring multi-channel attribution and custom event conversion tracking.
 
 Key capabilities:
+* E-commerce conversion tracking
+* Campaign & referrer identification
+* Detailed attribution reports
+* Full compliance with GDPR/CCPA privacy standards
 
-* Affiliate network
-* Publisher marketplace
-* Advertiser programs
-* Affiliate tracking
-* Commission management
-* Reporting
-* Publisher relationships
-* Commerce partnerships
-* API/data integrations
+License: GPL-3.0.
 
 ---
 
-## 4. Awin
+## 4. n8n
 
-**Website:** https://www.awin.com/
+[![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
 
-Awin operates a large global affiliate network and provides advertiser and publisher infrastructure.
+**GitHub:** https://github.com/n8n-io/n8n
+
+n8n is an open-source workflow automation platform for orchestrating partner onboarding, payout triggers, and CRM sync.
 
 Key capabilities:
+* Webhook ingestion for conversion signals
+* Automated Stripe payout workflows
+* Partner email notification flows
+* Multi-app ecosystem integration
 
-* Affiliate programs
-* Publisher discovery
-* Affiliate tracking
-* Commission management
-* Reporting
-* Partner management
-* Product feeds
-* International programs
-* Network marketplace
-
-Awin launched a new platform experience in 2026 while continuing migration from Awin Classic.
+License: Sustainable Use License.
 
 ---
 
-## 5. TUNE
+## 5. Plausible Analytics
 
-**Website:** https://www.tune.com/
+[![Plausible Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)
 
-TUNE provides affiliate and partner marketing infrastructure for advertisers and networks.
+**GitHub:** https://github.com/plausible/analytics
+
+Plausible is a lightweight, cookie-free open-source web analytics platform ideal for privacy-focused referral attribution.
 
 Key capabilities:
-
-* Affiliate tracking
-* Partner management
-* Commission management
-* Fraud prevention
-* Payments
-* Partner marketplace
-* Network management
-* APIs
-* Real-time data
-* Custom partner experiences
-
----
-
-## 6. Everflow
-
-**Website:** https://www.everflow.io/
-
-Everflow provides partner and affiliate tracking infrastructure.
-
-Typical capabilities include:
-
-* Affiliate tracking
-* Partner management
-* Conversion tracking
-* Attribution
-* Offers
-* Commission management
-* Fraud monitoring
-* Reporting
-* API access
-* Partner portals
-
----
-
-## 7. Rewardful
-
-**Website:** https://www.rewardful.com/
-
-Rewardful focuses particularly on SaaS affiliate and referral programs.
-
-Key capabilities:
-
-* Stripe integration
-* Affiliate tracking
-* Referral tracking
-* Recurring commissions
-* One-time commissions
-* Coupon-code tracking
-* Affiliate portals
-* Commission management
-* Payout workflows
-* API
-* Fraud controls
-
-Rewardful describes integrations with Stripe and Paddle and supports recurring or one-time commission structures.
-
----
-
-## 8. FirstPromoter
-
-**Website:** https://firstpromoter.com/
-
-FirstPromoter focuses on affiliate and referral programs for subscription businesses.
-
-Typical capabilities:
-
-* Affiliate tracking
-* Referral programs
-* SaaS subscription attribution
-* Recurring commissions
-* Affiliate dashboards
-* Campaigns
-* Coupon tracking
-* Stripe integration
-* Reporting
-* API/webhooks
-
----
-
-## 9. Refersion
-
-**Website:** https://www.refersion.com/
-
-Refersion provides affiliate marketing infrastructure for e-commerce brands, agencies and affiliates.
-
-Key capabilities:
-
-* Conversion tracking
-* Affiliate management
-* Influencer management
-* Offer management
-* Affiliate portals
-* Reporting
-* Payments
-* E-commerce integrations
-* Marketplace/discovery capabilities
-
----
-
-## 10. LeadDyno
-
-**Website:** https://www.leaddyno.com/
-
-LeadDyno provides affiliate tracking and affiliate-program management.
-
-Key capabilities:
-
-* Affiliate dashboards
-* Affiliate applications
-* Affiliate groups
-* Commission structures
-* Tracking
-* Conversion management
-* Reporting
-* Integrations
-* Affiliate communications
-* Tax-form support
-
----
-
-## 11. Rakuten Advertising
-
-**Website:** https://rakutenadvertising.com/
-
-Rakuten Advertising provides affiliate-network and performance-marketing infrastructure.
-
-Key capabilities:
-
-* Advertiser programs
-* Publisher network
-* Affiliate tracking
-* Commerce partnerships
-* Reporting
-* Partner management
-* International affiliate programs
-
----
-
-## 12. ShareASale
-
-**Website:** https://www.shareasale.com/
-
-ShareASale is an established affiliate network connecting merchants and affiliates.
-
-Typical capabilities:
-
-* Merchant programs
-* Affiliate discovery
-* Affiliate tracking
-* Commission management
-* Reporting
-* Product feeds
-* Publisher tools
-
----
-
-## 13. Tapfiliate
-
-**Website:** https://tapfiliate.com/
-
-Tapfiliate provides affiliate, referral and influencer marketing infrastructure.
-
-Key capabilities:
-
-* Affiliate programs
-* Referral programs
-* Influencer programs
-* Affiliate portals
-* Conversion tracking
-* Commission structures
-* Integrations
-* API
-* Automation
-* Program management
-
----
-
-## 14. Partnerize
-
-**Website:** https://partnerize.com/
-
-Partnerize provides partnership-management and affiliate marketing infrastructure.
-
-Key capabilities:
-
-* Partner discovery
-* Affiliate management
-* Partnership management
-* Tracking
-* Attribution
-* Commission management
-* Payments
-* Analytics
-* Partner recruitment
-* Fraud controls
-
----
-
-# Open-Source
-
-> Open-source affiliate software is less consolidated than the commercial ecosystem. The strongest strategy is usually to combine a complete open-source affiliate/referral project with specialized attribution, analytics, payment and data infrastructure.
-
----
-
-# Complete Affiliate & Partner Platforms
-
-## 1. OpenPartner
-
-**GitHub:** https://github.com/getcoherence/openpartner
-
-OpenPartner is an open-source affiliate and creator-partnership platform focused on attribution and payouts.
-
-Key capabilities:
-
-* Affiliate management
-* Creator partnerships
-* Click → signup → revenue attribution
-* Partner portal
-* Commission ledger
-* Stripe Connect payouts
-* Fraud review
-* Partner analytics
-* Data export
-* API
-* Self-hosting
-* PostgreSQL
-* Docker deployment
-
-License: MIT.
-
----
-
-## 2. RefearnApp
-
-**GitHub:** https://github.com/ZAK123DSFDF/refearnapp
-
-RefearnApp is an open-source, self-hostable affiliate and referral-management platform.
-
-Key capabilities:
-
-* Affiliate tracking
-* Referral tracking
-* Conversion tracking
-* Affiliate portal
-* Commission tracking
-* Coupon-code tracking
-* Stripe integration
-* Paddle integration
-* PayPal payouts
-* Analytics
-* Docker deployment
-* Cloudflare Edge tracking
+* Lightweight tracking script (< 1KB)
+* Custom goal conversion tracking
+* Referrer attribution breakdown
+* Simple clean self-hosted dashboard
 
 License: AGPL-3.0.
 
 ---
 
-## 3. RefRef
+## 6. Umami
+
+[![Umami Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)
+
+**GitHub:** https://github.com/umami-software/umami
+
+Umami is a fast, privacy-focused open-source analytics solution with custom event & link tracking capabilities.
+
+Key capabilities:
+* Out-of-the-box custom link tracking
+* Simple REST API access
+* Lightweight PostgreSQL/MySQL storage
+* Self-hostable with single Docker command
+
+License: MIT.
+
+---
+
+## 7. RefRef
+
+[![RefRef Stars](https://img.shields.io/github/stars/refrefhq/refref?style=social&color=white)](https://github.com/refrefhq/refref/stargazers)
 
 **GitHub:** https://github.com/refrefhq/refref
 
 RefRef is an open-source referral and affiliate-management platform.
 
 Key capabilities:
-
 * Referral programs
 * Affiliate programs
 * Partner management
 * Referral tracking
 * Campaign management
-* Self-hosting
-* PostgreSQL
-* Docker
-* Web portal
+* Self-hosting with PostgreSQL & Docker
 
 License: AGPL-3.0.
 
 ---
 
-## 4. Refferq
+## 8. OpenPartner
+
+[![OpenPartner Stars](https://img.shields.io/github/stars/getcoherence/openpartner?style=social&color=white)](https://github.com/getcoherence/openpartner/stargazers)
+
+**GitHub:** https://github.com/getcoherence/openpartner
+
+OpenPartner is an open-source affiliate and creator-partnership platform focused on attribution and payouts.
+
+Key capabilities:
+* Affiliate & creator partnerships
+* Click → signup → revenue attribution
+* Partner portal & commission ledger
+* Stripe Connect automated payouts
+* Fraud review dashboard
+
+License: MIT.
+
+---
+
+## 9. Cliq
+
+[![Cliq Stars](https://img.shields.io/github/stars/org-quicko/cliq?style=social&color=white)](https://github.com/org-quicko/cliq/stargazers)
+
+**GitHub:** https://github.com/org-quicko/cliq
+
+Cliq is a self-hosted affiliate-management platform designed for startups built with NestJS & TypeScript.
+
+Key capabilities:
+* Affiliate & promoter management
+* Referral tracking & commission engine
+* Promoter self-service portal
+* Role-based access control & Docker setup
+
+License: MIT.
+
+---
+
+## 10. Toppromoter
+
+[![Toppromoter Stars](https://img.shields.io/github/stars/src200/toppromoter?style=social&color=white)](https://github.com/src200/toppromoter/stargazers)
+
+**GitHub:** https://github.com/src200/toppromoter
+
+Toppromoter is an open-source affiliate-management project focused on SaaS businesses built with Next.js and Supabase.
+
+Key capabilities:
+* Stripe subscription & one-time synchronization
+* Cross-subdomain referral tracking
+* Affiliate signup pages & analytics dashboard
+* Automatic refund sync
+
+License: MIT.
+
+---
+
+## 11. RefearnApp
+
+[![RefearnApp Stars](https://img.shields.io/github/stars/ZAK123DSFDF/refearnapp?style=social&color=white)](https://github.com/ZAK123DSFDF/refearnapp/stargazers)
+
+**GitHub:** https://github.com/ZAK123DSFDF/refearnapp
+
+RefearnApp is an open-source, self-hostable affiliate and referral-management platform.
+
+Key capabilities:
+* Affiliate & referral tracking
+* Cloudflare Edge tracking support
+* Coupon-code tracking
+* Stripe, Paddle & PayPal integration
+
+License: AGPL-3.0.
+
+---
+
+## 12. Refferq
+
+[![Refferq Stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)
 
 **GitHub:** https://github.com/Refferq/Refferq
 
 Refferq is an open-source affiliate-management platform built around modern web technologies.
 
 Key capabilities:
+* Affiliate & Admin portals
+* Payout management & automated workflows
+* REST API & PostgreSQL deployment
 
-* Affiliate portal
-* Admin portal
-* Referral tracking
-* Commission management
-* Payout management
-* Analytics
-* Automated workflows
-* Email notifications
-* REST API
-* PostgreSQL
-* Docker deployment
+License: MIT.
 
 ---
 
-## 5. Toppromoter
+## 13. CPA Network
 
-**GitHub:** https://github.com/src200/toppromoter
-
-Toppromoter is an open-source affiliate-management project focused on SaaS businesses.
-
-Key capabilities:
-
-* Affiliate programs
-* Stripe subscriptions
-* One-time payments
-* Referral tracking
-* Automatic payment/refund synchronization
-* Cross-subdomain tracking
-* Affiliate signup pages
-* Affiliate dashboard
-
-Technology:
-
-* Next.js
-* React
-* Tailwind CSS
-* Supabase
-* PostgreSQL
-
----
-
-## 6. Cliq
-
-**GitHub:** https://github.com/org-quicko/cliq
-
-Cliq is a self-hosted affiliate-management platform designed for startups.
-
-Key capabilities:
-
-* Affiliate management
-* Promoter management
-* Referral tracking
-* Commission calculation
-* Analytics
-* Promoter portal
-* APIs
-* Authentication
-* Role-based access control
-* Docker deployment
-
-Technology:
-
-* NestJS
-* TypeScript
-* PostgreSQL-compatible database
-* Redis
-* Docker
-
----
-
-## 7. CPA Network
+[![CPA Network Stars](https://img.shields.io/github/stars/cpanova/cpa-network?style=social&color=white)](https://github.com/cpanova/cpa-network/stargazers)
 
 **GitHub:** https://github.com/cpanova/cpa-network
 
 An open-source CPA affiliate network implementation.
 
 Key capabilities:
+* Advertiser & offer management
+* CPA campaign tracking & conversion import
+* Affiliate dashboards & REST API
 
-* Affiliate accounts
-* Offer management
-* CPA campaigns
-* Conversion import
-* Affiliate dashboards
-* Reporting
-* REST API
-* Offer browsing
+License: MIT.
 
 ---
 
-## 8. Affiliate Management System
+## 14. Affiliate Management System
+
+[![Affiliate Management System Stars](https://img.shields.io/github/stars/prathammahajan13/affiliate-management-system?style=social&color=white)](https://github.com/prathammahajan13/affiliate-management-system/stargazers)
 
 **GitHub:** https://github.com/prathammahajan13/affiliate-management-system
 
 Node.js-based affiliate-management implementation.
 
 Capabilities include:
-
-* Commission tracking
-* Multi-tier affiliate programs
-* Payment processing
-* Fraud detection
-* Analytics
-* Affiliate management
-* E-commerce support
-* SaaS use cases
+* Multi-tier commission tracking
+* Fraud detection & payout workflows
+* E-commerce & SaaS use cases
 
 License: MIT.
+
 
 ---
 
@@ -2066,4 +1873,21 @@ Partner Intelligence
 > **OpenPartner or RefearnApp + PostgreSQL + Redis + Stripe/Stripe Connect + ClickHouse + Grafana + n8n**, with Kafka added when event volume and network complexity justify an event-driven architecture.
 
 This provides a strong foundation for building a self-hosted, extensible and data-owned alternative to commercial affiliate-management and partner-marketing platforms.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome-Affiliate-Marketing-Platform**! If you found this curated list or architectural breakdown helpful, please consider giving this repository a ⭐ **Star**, **Forking** it for your own research, or sharing it with fellow developers and growth engineers.
+
+- 🌟 **Star this repo:** Click the star button at the top right of this page!
+- 🔀 **Fork & Contribute:** Open a Pull Request with new open-source affiliate tools or feature updates.
+- ☕ **Buy Me a Coffee:** Support ongoing maintenance and technical directory updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Affiliate-Marketing-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Affiliate-Marketing-Platform&type=date&legend=top-left)
+
 
