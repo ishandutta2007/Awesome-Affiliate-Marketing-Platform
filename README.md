@@ -150,9 +150,9 @@ Below is the comparative breakdown of commercial SaaS affiliate platforms, sorte
 
 # 🛠️ Complete Affiliate & Partner Platforms
 
-Below is the consolidated list of open-source affiliate, attribution, and analytics platforms, sorted by **GitHub Stars (Descending)** ⭐:
+Below is the consolidated list of open-source affiliate, attribution, and analytics platforms, sorted by **GitHub_Stars (Descending)** ⭐:
 
-| Project 🚀 | Stars ⭐ | Description 📝 | License 📜 |
+| Project 🚀 | GitHub_Stars ⭐ | Description 📝 | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![PostHog Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Product analytics & feature management platform with event tracking & conversion attribution | MIT / ELv2 |
 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | [![ClickHouse Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | Column-oriented database powering real-time high-volume clickstream & attribution engines | Apache-2.0 |
