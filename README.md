@@ -150,7 +150,7 @@ Below is the comparative breakdown of commercial SaaS affiliate platforms, sorte
 
 # 🛠️ Complete Affiliate & Partner Platforms
 
-Below is the list of open-source affiliate & referral platforms, sorted by **GitHub Star Count (Descending)** ⭐:
+Below is the list of open-source affiliate & referral platforms, sorted by **GitHub Stars_Count (Descending)** ⭐:
 
 ## 1. PostHog
 
